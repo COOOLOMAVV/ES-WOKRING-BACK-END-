@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Estateflow [Backend] V2",
+  "description": "Modern real estate listings, viewing appointment scheduler, agent lead manager, inquiries and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
